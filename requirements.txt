@@ -3,8 +3,6 @@ numpy
 seaborn
 matplotlib
 scikit-learn
-lida
-lida[transformers]
 -e.  
 # -e. : indication that setup.py exists (verification)
 
