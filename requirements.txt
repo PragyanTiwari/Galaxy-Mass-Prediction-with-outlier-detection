@@ -1,8 +1,0 @@
-pandas
-numpy
-seaborn
-matplotlib
-scikit-learn
--e.  
-# -e. : indication that setup.py exists (verification)
-
