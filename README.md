@@ -1,6 +1,6 @@
 
 # 🌌 Galaxy Mass Prediction (Outlier Detection Project)
-<img src="images/galaxy.png" width="1000" height="400">
+---
 
 ## 🪼 Introduction
 
