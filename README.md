@@ -1,6 +1,5 @@
 
 # 🌌 Galaxy Mass Prediction (Outlier Detection Project)
----
 
 ## 🪼 Introduction
 
@@ -25,7 +24,7 @@ This project focuses on developing a robust machine learning model to accurately
 
 ## Conclusion
 
-The model achieved an accuracy of approximately 91% when including outliers. By removing 0.8% of outliers, we significantly improved performance to 95.5%. This clearly demonstrates the substantial impact of outliers on the model.
+The model achieved an accuracy of approximately **91%** when including outliers. By removing 0.8% of outliers, we significantly improved performance to **95.5%**. This clearly demonstrates the substantial impact of outliers on the model.
 
 To further enhance accuracy, we can explore alternative regression models such as Decision Trees and Support Vector Regression.
 
