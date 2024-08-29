@@ -22,7 +22,7 @@ This project focuses on developing a robust machine learning model to accurately
 4. **Model Training & Evaluation** : Trained the linear regression model and evaluated the performance with R-squared metric. Iterated with different threshold values for outlier detection.
 
 
-## Conclusion
+## 🏁 Conclusion
 
 The model achieved an accuracy of approximately **91%** when including outliers. By removing 0.8% of outliers, we significantly improved performance to **95.5%**. This clearly demonstrates the substantial impact of outliers on the model.
 
